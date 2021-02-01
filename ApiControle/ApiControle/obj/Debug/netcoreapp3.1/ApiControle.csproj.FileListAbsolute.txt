@@ -1,0 +1,82 @@
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\ApiControle.exe
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\ApiControle.deps.json
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\ApiControle.runtimeconfig.json
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\ApiControle.runtimeconfig.dev.json
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\ApiControle.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\ApiControle.pdb
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.csprojAssemblyReference.cache
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.AssemblyInfoInputs.cache
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.AssemblyInfo.cs
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.csproj.CoreCompileInputs.cache
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\staticwebassets\ApiControle.StaticWebAssets.Manifest.cache
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\staticwebassets\ApiControle.StaticWebAssets.xml
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiControle.styles.css
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.RazorTargetAssemblyInfo.cache
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.csproj.CopyComplete
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.pdb
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.genruntimeconfig.cache
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Thales Veloso\source\repos\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\ApiControle.exe
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\ApiControle.deps.json
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\ApiControle.runtimeconfig.json
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\ApiControle.runtimeconfig.dev.json
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\ApiControle.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\ApiControle.pdb
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.csprojAssemblyReference.cache
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.AssemblyInfoInputs.cache
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.AssemblyInfo.cs
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.csproj.CoreCompileInputs.cache
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\staticwebassets\ApiControle.StaticWebAssets.Manifest.cache
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\staticwebassets\ApiControle.StaticWebAssets.xml
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\scopedcss\bundle\ApiControle.styles.css
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.RazorTargetAssemblyInfo.cache
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.csproj.CopyComplete
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.dll
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.pdb
+C:\Users\Thales Veloso\Desktop\Projetos CSharp\ApiControle\ApiControle\obj\Debug\netcoreapp3.1\ApiControle.genruntimeconfig.cache
